@@ -33,15 +33,6 @@ The common thread is turning complex systems — statistical, structural, or vis
   <img src="https://www.gitskins.com/api/section/projects?username=FellipeVoid&theme=aurora" width="100%" alt="Selected projects by Fellipe" />
 </p>
 
-| Project | What it is |
-| --- | --- |
-| [Path of Dices](https://github.com/FellipeVoid/path-of-dices) | Dice-and-card roguelike battler — turn-based combat built around rolling, deck synergy, and risk management. |
-| | |
-| | |
-
-<sub>Update the table above with your real repo names/links — replace the empty rows or add more.</sub>
-
-## Engineering signal
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=FellipeVoid&theme=aurora" width="100%" alt="Technology stack for Fellipe" />
