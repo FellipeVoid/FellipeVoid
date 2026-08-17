@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="NOME_DO_ARQUIVO.gif" width="100%" alt="banner" />
+  <img src="space-shooter.gif" width="100%" alt="banner" />
 </p>
 
 <p align="center">
