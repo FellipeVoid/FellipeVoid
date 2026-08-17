@@ -56,10 +56,10 @@ The common thread is turning complex systems — statistical, structural, or vis
 
 ## A profile that moves
 
-The contribution graph is part of the profile experience — it refreshes automatically from this repository.
+The contribution graph is part of the profile experience — a ship sweeps the grid and clears each column, rebuilt daily from real activity in this repository.
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ff8c1a/FellipeVoid" width="100%" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/FellipeVoid/FellipeVoid/output/space-shooter.gif" width="100%" alt="Space shooter contribution animation" />
 </p>
 
 ## Current focus
