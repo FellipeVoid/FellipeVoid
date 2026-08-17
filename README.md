@@ -3,14 +3,22 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/FellipeVoid?tab=repositories"><b>Projects</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.gitskins.com">GitSkins</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:delltorof2@gmail.com">Contact</a>
+</p>
+
+<p align="center">
   <img src="https://www.gitskins.com/api/section/wordmark?username=FellipeVoid&theme=github-dark&label=Fellipe" width="100%" alt="Animated 3D wordmark for Fellipe" />
 </p>
 
-## Data, AI, and 3D — built for the real world
+## Junior backend dev learning by building
 
-I work across data science, machine learning, and 3D production. On one side I build models and pipelines that turn raw data into decisions; on the other I work in Blender, Unreal Engine, and ZBrush to bring ideas into visual form.
+I'm a junior backend developer working with Python and Java, currently diving into machine learning. I'm also a technical artist, so I split my time between writing code and building things in Blender, Unreal Engine, and ZBrush.
 
-The common thread is turning complex systems — statistical, structural, or visual — into something clear and usable.
+Still early in the journey — most of what's here is me learning in public and figuring things out project by project.
 
 <p align="center">
   <picture>
@@ -45,7 +53,7 @@ The contribution graph is part of the profile experience — a ship sweeps the g
 ## Current focus
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=FellipeVoid&theme=github-dark&items=Machine%20learning::Turning%20raw%20data%20into%20decisions|3D%20%2F%20real-time::Blender%2C%20Unreal%20Engine%2C%20ZBrush|Game%20systems::Building%20Path%20of%20Dices" width="100%" alt="Current focus areas for Fellipe" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=FellipeVoid&theme=github-dark&items=Backend::Learning%20Python%20and%20Java%20fundamentals|Machine%20learning::Studying%20models%20and%20data%20pipelines|Technical%20art::Blender%2C%20Unreal%20Engine%2C%20ZBrush|Game%20systems::Building%20Path%20of%20Dices" width="100%" alt="Current focus areas for Fellipe" />
 </p>
 
 <p align="center">
