@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=FellipeVoid&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=FellipeVoid&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Fellipe" />
-  </picture>
-</p>
-
-<p align="center">
   <a href="https://github.com/FellipeVoid?tab=repositories"><b>Projects</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.gitskins.com">GitSkins</a>
