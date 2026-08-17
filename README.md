@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=FellipeVoid&theme=github-dark&label=Fellipe" width="100%" alt="Animated 3D wordmark for Fellipe" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=FellipeVoid&theme=minimal&label=Fellipe" width="100%" alt="Animated 3D wordmark for Fellipe" />
 </p>
 
 ## Data, AI, and 3D — built for the real world
@@ -22,24 +22,24 @@ The common thread is turning complex systems — statistical, structural, or vis
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=FellipeVoid&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=FellipeVoid&theme=github-dark&mode=dark" width="100%" alt="About Fellipe" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=FellipeVoid&theme=minimal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=FellipeVoid&theme=minimal&mode=dark" width="100%" alt="About Fellipe" />
   </picture>
 </p>
 
 ## Selected work
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=FellipeVoid&theme=github-dark" width="100%" alt="Selected projects by Fellipe" />
+  <img src="https://www.gitskins.com/api/section/projects?username=FellipeVoid&theme=minimal" width="100%" alt="Selected projects by Fellipe" />
 </p>
 
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=FellipeVoid&theme=github-dark" width="100%" alt="Technology stack for Fellipe" />
+  <img src="https://www.gitskins.com/api/section/stack?username=FellipeVoid&theme=minimal" width="100%" alt="Technology stack for Fellipe" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=FellipeVoid&theme=github-dark" width="100%" alt="GitHub activity stats for Fellipe" />
+  <img src="https://www.gitskins.com/api/section/stats?username=FellipeVoid&theme=minimal" width="100%" alt="GitHub activity stats for Fellipe" />
 </p>
 
 ## A profile that moves
@@ -53,7 +53,7 @@ The contribution graph is part of the profile experience — a ship sweeps the g
 ## Current focus
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=FellipeVoid&theme=github-dark&items=Machine%20learning::Turning%20raw%20data%20into%20decisions|3D%20%2F%20real-time::Blender%2C%20Unreal%20Engine%2C%20ZBrush|Game%20systems::Building%20Path%20of%20Dices" width="100%" alt="Current focus areas for Fellipe" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=FellipeVoid&theme=minimal&items=Machine%20learning::Turning%20raw%20data%20into%20decisions|3D%20%2F%20real-time::Blender%2C%20Unreal%20Engine%2C%20ZBrush|Game%20systems::Building%20Path%20of%20Dices" width="100%" alt="Current focus areas for Fellipe" />
 </p>
 
 <p align="center">
