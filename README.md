@@ -27,30 +27,30 @@ Still early in the journey — most of what's here is me learning in public and 
   </picture>
 </p>
 
-## Selected work
+## Projects I'm building
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=FellipeVoid&theme=github-dark" width="100%" alt="Selected projects by Fellipe" />
+  <img src="https://www.gitskins.com/api/section/projects?username=FellipeVoid&theme=github-dark" width="100%" alt="Projects by Fellipe" />
 </p>
 
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=FellipeVoid&theme=github-dark" width="100%" alt="Technology stack for Fellipe" />
+  <img src="https://www.gitskins.com/api/section/stack?username=FellipeVoid&theme=github-dark" width="100%" alt="Languages and tools Fellipe is learning" />
 </p>
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=FellipeVoid&theme=github-dark" width="100%" alt="GitHub activity stats for Fellipe" />
 </p>
 
-## A profile that moves
+## Just a little extra
 
-The contribution graph is part of the profile experience — a ship sweeps the grid and clears each column, rebuilt daily from real activity in this repository.
+Nothing serious here, just a ship sweeping the contribution grid for fun — rebuilt daily from my real activity in this repo.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FellipeVoid/FellipeVoid/output/space-shooter.gif" width="100%" alt="Space shooter contribution animation" />
 </p>
 
-## Current focus
+## What I'm learning right now
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/highlights?username=FellipeVoid&theme=github-dark&items=Backend::Learning%20Python%20and%20Java%20fundamentals|Machine%20learning::Studying%20models%20and%20data%20pipelines|Technical%20art::Blender%2C%20Unreal%20Engine%2C%20ZBrush|Game%20systems::Building%20Path%20of%20Dices" width="100%" alt="Current focus areas for Fellipe" />
