@@ -3,14 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FellipeVoid?tab=repositories"><b>Projects</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com">GitSkins</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:delltorof2@gmail.com">Contact</a>
-</p>
-
-<p align="center">
   <img src="https://www.gitskins.com/api/section/wordmark?username=FellipeVoid&theme=github-dark&label=Fellipe" width="100%" alt="Animated 3D wordmark for Fellipe" />
 </p>
 
