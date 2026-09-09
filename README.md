@@ -1,6 +1,10 @@
-﻿# Felipe Void
+﻿<p align="center">
+  <img src="space-shooter.gif" width="100%" alt="banner" />
+</p>
 
-**AI Software Engineer** · Full stack · Aplicações com IA
+# Felipe Void
+
+**AI Software Engineer** · Full stack
 
 Construo produtos end-to-end com Next.js, Supabase e agentes no Cursor — do schema ao deploy.
 
@@ -23,4 +27,4 @@ Case público: [ceres-case](https://github.com/FellipeVoid/ceres-case) · códig
 - GitHub: [@FellipeVoid](https://github.com/FellipeVoid)
 
 ---
-*Aberto a vagas de AI Software Engineer / Full Stack (AI-assisted) — BR ou remote.*
+*Aberto a vagas de AI Software Engineer / Full Stack — BR ou remote.*
