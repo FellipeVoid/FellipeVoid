@@ -1,4 +1,4 @@
-# Felipe Gustavo
+# FellipeVoid
 
 **AI Software Engineer** · Full stack · Aplicações com IA
 
@@ -21,7 +21,6 @@ Case público: [ceres-case](https://github.com/FellipeVoid/ceres-case) · códig
 
 ## Contato
 - GitHub: [@FellipeVoid](https://github.com/FellipeVoid)
-- Email: `delltorof2@gmail.com`
 
 ---
 *Aberto a vagas de AI Software Engineer / Full Stack (AI-assisted) — BR ou remote.*
