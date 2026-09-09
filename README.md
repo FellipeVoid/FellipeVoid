@@ -1,19 +1,19 @@
-<p align="center">
-  <img src="space-shooter.gif" width="100%" alt="banner" />
-</p>
+# Felipe Gustavo — AI Software Engineer
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=FellipeVoid&theme=github-dark&label=Fellipe" width="100%" alt="Animated 3D wordmark for Fellipe" />
-</p>
+Full stack · aplicações com IA.
 
-## Junior backend dev learning by building
+Construo produtos com Next.js, Supabase e agents no Cursor — do zero ao deploy.
+Foco atual: **Ceres**, monitoramento B2B de patentes agro (Espacenet → resumos em PT).
 
-I'm a junior backend developer working with Python and Java, currently diving into machine learning. I'm also a technical artist, so I split my time between writing code and building things in Blender, Unreal Engine, and ZBrush.
+## Em construção
+- **Ceres** (privado) — SaaS de inteligência de patentes para insumos agrícolas  
+  Stack: Next.js · Supabase · Stripe · ingestão Espacenet/OPS
 
-Still early in the journey — most of what's here is me learning in public and figuring things out project by project. 
+## Stack
+`TypeScript` · `Next.js` · `Supabase` · `Tailwind` · `Cursor` · `Python` (quando precisa)
 
-Right now, my focus is on mixing these two worlds. I write backend code, explore ML models, and use AI-assisted tools to build custom scripts and pipeline automations for 3D environments.
+## Contato
+- Email: delltorof2@gmail.com
+- GitHub: [@FellipeVoid](https://github.com/FellipeVoid)
 
-**Stack:** Python, Java, Unreal Engine 5, Blender, ZBrush.
-
-Find my visual work on [ArtStation](your-link) or connect with me on [LinkedIn](your-link).
+> Perfil em atualização: cases públicos e demo live do Ceres em breve.
