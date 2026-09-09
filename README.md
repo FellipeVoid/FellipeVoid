@@ -1,4 +1,4 @@
-# FellipeVoid
+﻿# Felipe Void
 
 **AI Software Engineer** · Full stack · Aplicações com IA
 
@@ -7,8 +7,8 @@ Construo produtos end-to-end com Next.js, Supabase e agentes no Cursor — do sc
 ## Em destaque
 
 ### Ceres — inteligência de patentes para o agro
-SaaS B2B que monitora classes IPC (defensivos, sementes, biológicos), puxa depósitos novos no Espacenet e resume em português.  
-Stack: `Next.js` · `TypeScript` · `Supabase` · `Stripe` · `Espacenet OPS` · Vercel cron  
+SaaS B2B que monitora classes IPC (defensivos, sementes, biológicos), puxa depósitos novos no Espacenet e resume em português.
+Stack: `Next.js` · `TypeScript` · `Supabase` · `Stripe` · `Espacenet OPS` · Vercel cron
 Case público: [ceres-case](https://github.com/FellipeVoid/ceres-case) · código do produto em repo privado
 
 ## Como trabalho
