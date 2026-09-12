@@ -1,7 +1,5 @@
 <div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Felipe+Void;AI+Software+Engineer;Full+Stack+%C2%B7+AI-assisted+shipping" alt="Typing SVG" />
-
+  <img src="./space-shooter.gif" alt="space shooter" width="420" />
 </div>
 
 <br/>
@@ -31,7 +29,7 @@ const felipe = {
   role:       "AI Software Engineer · Full Stack",
   name:       "Felipe Void",
   handle:     "FellipeVoid",
-  based:      "Brazil 🇧🇷",
+  based:      "Brazil",
   superpower: "Turning product vision into production software via AI agents",
   focus:      ["AI-Augmented Development", "B2B SaaS", "Full-Stack Shipping"],
   stack:      ["Next.js", "TypeScript", "Supabase", "Stripe", "Vercel"],
@@ -42,25 +40,25 @@ const felipe = {
 
 <br/>
 
-## ⚡ Featured Projects
+## Featured Projects
 
-### 🌾 [Ceres](https://github.com/FellipeVoid/ceres-case)
+### [Ceres](https://github.com/FellipeVoid/ceres-case)
 
 **B2B patent intelligence for agribusiness** — monitors IPC classes (crop protection, seeds, biologics), pulls new Espacenet filings, and surfaces actionable summaries for operators who need signal, not noise.
 
 `TypeScript` `Next.js` `Supabase` `Stripe` `Espacenet OPS` `Vercel`
 
-- 📡 Automated monitoring of agro-relevant patent classes
-- 🔐 Auth + profile + dashboard as one product surface
-- 🧠 AI-assisted summarization pipeline oriented to Portuguese operators
-- 🏗️ Full-stack SaaS shape: landing, auth, panel, billing path
-- 📦 Public case study in [`ceres-case`](https://github.com/FellipeVoid/ceres-case) · product code in a private repo
+- Automated monitoring of agro-relevant patent classes
+- Auth + profile + dashboard as one product surface
+- AI-assisted summarization pipeline oriented to Portuguese operators
+- Full-stack SaaS shape: landing, auth, panel, billing path
+- Public case study in [`ceres-case`](https://github.com/FellipeVoid/ceres-case) · product code in a private repo
 
 > **Recommendation:** Start with the case study repo if you want the architecture narrative and product decisions without the private implementation surface.
 
 <br/>
 
-## 🧠 How I Build
+## How I Build
 
 I work at the intersection of **product thinking** and **AI-augmented execution**:
 
@@ -73,7 +71,7 @@ Every feature has an owner. Every risky path is reviewed. Every release aims at 
 
 <br/>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Core Technologies**
 
@@ -97,7 +95,7 @@ Every feature has an owner. Every risky path is reviewed. Every release aims at 
 
 <br/>
 
-## 📬 Let's Connect
+## Let's Connect
 
 - GitHub: [@FellipeVoid](https://github.com/FellipeVoid)
 
